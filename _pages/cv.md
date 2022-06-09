@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, University of Kentucky, 2021
+* Ph.D in Electrical Engineering, Arizona State University, 2026 (expected)
+
+Research Appointments
+======
+* Summer 2021 - Present:
+  * Worked with Dr. Lalitha Sankar and collaborators to evaluate a novel risk prediction method for noisy data
+* Fall 2020 - Summer 2021:
+  * Worked with Dr. Lalitha Sankar and collaborators to train and evaluate logistic regression models on novel COVID-19 dataset
+* Summer 2020: Undergraduate Researcher, SURI Program, Arizona State University
+  * Worked with Dr. Lalitha Sankar and collaborators to evaluate a tunable class of loss functions, $\alpha$-loss
+  * Ran large scale PyTorch code on large computing cluster
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2019: Software Engineering Intern, GE Applicances, a Haier Company
+  * Worked with AWS Lambda and AWS Connect to build user-facing APIs
+  * Eliminated On-Phone wait time for up to 8,000 customers per day through custom callback feature
 
 Publications
 ======
@@ -47,13 +41,3 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
