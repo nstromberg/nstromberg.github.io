@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Nathan Stromberg / PhD Student"
 title_separator          : "-"
 name                     : &name "Nathan Stromberg"
-description              : &description "Second year PhD student at Arizona State University"
+description              : &description "Third year PhD student at Arizona State University"
 url                      : https://nstromberg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nstromberg/nstromberg.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Nathan Stromberg"
   avatar           : "profile.png"
-  bio              : "Second year PhD student at Arizona State University in Electrical Engineering. Currently researching robust machine learning and risk prediction through loss functions."
+  bio              : "Third year PhD student at Arizona State University in Electrical Engineering. Currently researching robust machine learning and risk prediction through loss functions."
   location         : "Tempe, AZ"
   employer         :
   pubmed           : 
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2701-4683"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
