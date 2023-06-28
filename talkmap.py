@@ -13,12 +13,12 @@
 
 import glob
 import getorg
-from geopy import Nominatim
+from geopy.geocoders import Nominatim
 
 g = glob.glob("*.md")
 
 
-geocoder = Nominatim()
+geocoder = Nominatim(user_agent='gh-pages')
 location_dict = {}
 location = ""
 permalink = ""

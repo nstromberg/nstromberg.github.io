@@ -8,5 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Coming Soon
+Nathan Stromberg
 ===
+
+Nathan Stromberg is a PhD student at Arizona State University. His research focuses on non-convex loss functions for robustness and other applications. Recently he has been working on post-processing large models using the framework of (im)proper losses.
