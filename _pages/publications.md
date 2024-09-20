@@ -11,6 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
+Selected Work
+===
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+All Publications
+===
+<script src="https://bibbase.org/show?bib=https://dblp.org/pid/293/2005-1.bib&noBootstrap=1&jsonp=1"></script> 

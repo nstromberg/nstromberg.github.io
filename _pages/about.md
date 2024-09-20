@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 ### Bio
-Nathan Stromberg is a PhD student at Arizona State University in the school of Electrical, Computer, and Energy Engineering. His research focuses on non-convex loss
-functions for robustness and other applications. Recently he has been working on post-processing large models using the framework of (im)proper losses. He has presented
-work at top ML conferences and workshops including AISTATS and IMLH @ ICML.
+Nathan Stromberg is a PhD student at Arizona State University in the school of Electrical, Computer, and Energy Engineering working with Dr. Lalitha Sankar.
+Broadly, his research focuses on fairness and robustness with strong theoretical guarantees, especially justifying common heuristic choices to gain deeper understanding.
+Nathan is interested in classification-driven fairness metrics and how these can inform the development of a new generation of generative models with fairness guarantees. 
+Recently, his work has focused on efficient adaptation of deep models to address distribution shift and subpopulation fairness. 
+He has presented work at top conferences and workshops including AISTATS, ISIT, and IMLH @ ICML.
