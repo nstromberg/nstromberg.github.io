@@ -9,15 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+Download my CV [here](https://nstromberg.github.io/files/cv.pdf).
+
 Education
 ======
-* B.S. in Computer Science, University of Kentucky, 2021
 * Ph.D in Electrical Engineering, Arizona State University, 2026 (expected)
+* M.S. in Electrical Engineering, Arizona State University, 2024 
+* B.S. in Computer Science, University of Kentucky, 2021
 
 Research Appointments
 ======
 * Summer 2021 - Present:
   * Worked with Dr. Lalitha Sankar and collaborators to evaluate a novel risk prediction method for noisy data
+  * Developed theoretical understanding of common fairness mitigations
+  * Devised a state-of-the-art algorithmic approach for achieving subpopulation fairness without domain information
 * Fall 2020 - Summer 2021:
   * Worked with Dr. Lalitha Sankar and collaborators to train and evaluate logistic regression models on novel COVID-19 dataset
 * Summer 2020: Undergraduate Researcher, SURI Program, Arizona State University
