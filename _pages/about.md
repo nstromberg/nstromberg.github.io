@@ -13,4 +13,4 @@ Broadly, his research focuses on fairness and robustness with strong theoretical
 Nathan is interested in classification-driven fairness metrics and how these can inform the development of a new generation of generative models with fairness guarantees. 
 Recently, his work has focused on efficient adaptation of deep models to address distribution shift and subpopulation fairness. 
 He has published work at top conferences and journals including NeurIPS, TMLR, AISTATS, ISIT, and IMLH @ ICML.
-Nathan has been named a Horejsi Scholar by the ARCS foundation, and he has received several presentation awards including the ASU ECEE Graduate Student Award and the ISIT IT-TML best poster award.
+Nathan has been named a Horejsi Scholar by the ARCS Foundation, and he has received several presentation awards including the ASU ECEE Graduate Student Award and the ISIT IT-TML best poster award.
